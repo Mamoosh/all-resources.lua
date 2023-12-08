@@ -5,9 +5,9 @@ files {
 	'carvariations.meta',
 	'carcols.meta',
 	'handling.meta',
-	'dlctext.meta'
+	'dlctext.meta',
 	'contentunlocks.meta',
-    'vehiclelayouts.meta',
+        'vehiclelayouts.meta',
 	'shop_vehicle.meta'
 }
 
