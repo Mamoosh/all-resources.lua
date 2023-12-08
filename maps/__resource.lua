@@ -1,4 +1,4 @@
-data_file 'A' '' 
+data_file '' '' 
 file ''
 
 this_is_a_map 'yes'
