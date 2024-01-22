@@ -17,8 +17,6 @@ def print_ssubfolders(path):
             print("'" + stream + 'shop_vehicle.meta' + "',")
             print("\n")
 
-print("}\n")
-
 def print_subfolders(path):
     for root, dirs, files in os.walk(path, topdown=False):
         for name in dirs:
@@ -38,5 +36,6 @@ def print_subfolders(path):
 
 path = 'D:\\fivem\\CFXDefault_1BFEF6.base\\resources\\[ unbrand]\\cars\\'
 print_ssubfolders(path)
+print("}\n")
 print_subfolders(path)
 
